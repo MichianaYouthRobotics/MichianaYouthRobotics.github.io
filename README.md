@@ -1,2 +1,2 @@
 # MichianaYouthRobotics.github.io
-MYR Website
+[Michiana Youth Robotics and Engineering Homepage](michianayouthrobotics.github.io)
