@@ -1,0 +1,45 @@
+{
+    "title": "MYR",
+    "name": "MichianaYouthRobotics",
+    "version": "5.0.1",
+    "description": "Michiana Youth Robotics Homepage",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://michianayouthrobotics.org",
+    "license": "MIT",
+    "author": "Michiana Youth Robotics",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MichianaYouthRobotics/MichianaYouthRobotics.github.io.git"
+    },
+    "dependencies": {
+        "jquery.easing": "^1.4.1",
+        "magnific-popup": "^1.1.0",
+        "scrollreveal": "4.0.1"
+    },
+    "devDependencies": {
+        "babel-core": "^6.26.3",
+        "babel-preset-env": "^1.7.0",
+        "browser-sync": "2.24.7",
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "6.0.0",
+        "gulp-babel": "^7.0.1",
+        "gulp-clean-css": "3.10.0",
+        "gulp-cssnano": "^2.1.2",
+        "gulp-header": "2.0.5",
+        "gulp-imagemin": "^4.1.0",
+        "gulp-pixrem": "^1.0.0",
+        "gulp-plumber": "^1.1.0",
+        "gulp-rename": "1.4.0",
+        "gulp-sass": "4.0.1",
+        "gulp-uglify": "3.0.1",
+        "gulp-util": "^3.0.7",
+        "run-sequence": "^2.1.1"
+    }
+}
